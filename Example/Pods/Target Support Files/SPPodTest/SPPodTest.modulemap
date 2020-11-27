@@ -1,0 +1,6 @@
+framework module SPPodTest {
+  umbrella header "SPPodTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
